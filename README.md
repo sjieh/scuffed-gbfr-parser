@@ -6,5 +6,6 @@ Features:
 - Automatic reset upon entering every **BOSS** quest
 
 Known bugs/nuances:
+- Counts AI party member damage, but not online party member damage
 - Protobaha Skyfall 1 adds ~20mil to damage for some reason lol
 - Survival quests don't use the same timer function that boss quests do, so the parser doesn't reset automatically on them
